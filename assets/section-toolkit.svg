@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="74" viewBox="0 0 1200 74" role="img" aria-labelledby="title">
+  <title id="title">Systems toolkit</title>
+  <rect x="0" y="11" width="5" height="48" rx="2.5" fill="#0969DA"/>
+  <text x="26" y="36" fill="#0969DA" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15" font-weight="700" letter-spacing="2">02 / SYSTEMS TOOLKIT</text>
+  <text x="26" y="57" fill="#6E7781" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2">SIGNAL · STACK · DELIVERY</text>
+  <line x1="271" y1="35.5" x2="1178" y2="35.5" stroke="#0969DA" stroke-width="1" stroke-opacity="0.55"/>
+  <circle cx="1186" cy="35.5" r="5" fill="none" stroke="#0969DA" stroke-width="1.5"/>
+  <circle cx="1186" cy="35.5" r="1.8" fill="#0969DA"/>
+</svg>
