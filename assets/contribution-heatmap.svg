@@ -1,0 +1,1516 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="heat-title heat-desc">
+  <title id="heat-title">Contribution Activity</title>
+  <desc id="heat-desc">1,353 GitHub contributions in the last year.</desc>
+  <defs>
+    <linearGradient id="heat-bg" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#071326"/><stop offset="0.55" stop-color="#091426"/><stop offset="1" stop-color="#061b20"/>
+    </linearGradient>
+    <linearGradient id="heat-edge" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#2563eb"/><stop offset="0.55" stop-color="#7c3aed"/><stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+    <linearGradient id="sweep" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#60a5fa" stop-opacity="0"/><stop offset="0.5" stop-color="#60a5fa" stop-opacity="0.55"/><stop offset="1" stop-color="#60a5fa" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="soft-glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="7"/></filter>
+  </defs>
+  <rect width="1200" height="300" rx="28" fill="url(#heat-bg)"/>
+  <rect x="10" y="10" width="1180" height="280" rx="22" fill="none" stroke="url(#heat-edge)" stroke-width="1.5"/>
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="42" y="52" fill="#f8fafc" font-size="25" font-weight="750">CONTRIBUTION ACTIVITY</text>
+    <text x="42" y="79" fill="#7f93ad" font-size="15" font-weight="560">1,353 contributions in the last year</text>
+  </g>
+  <g fill="#71829a" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" letter-spacing="1.5">
+    <text x="112" y="105">AUG</text>
+    <text x="169" y="105">SEP</text>
+    <text x="245" y="105">OCT</text>
+    <text x="321" y="105">NOV</text>
+    <text x="416" y="105">DEC</text>
+    <text x="492" y="105">JAN</text>
+    <text x="587" y="105">FEB</text>
+    <text x="663" y="105">MAR</text>
+    <text x="739" y="105">APR</text>
+    <text x="815" y="105">MAY</text>
+    <text x="910" y="105">JUN</text>
+    <text x="986" y="105">JUL</text>
+    <text x="1062" y="105">AUG</text>
+    <text x="64" y="157">MON</text><text x="64" y="197">WED</text><text x="64" y="237">FRI</text>
+  </g>
+  <g><rect x="112" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.000s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="112" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.006s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="112" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.012s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="112" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.018s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="112" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.024s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="112" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.030s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="112" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.036s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.025s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.031s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.037s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.043s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.049s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.055s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="131" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.061s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.050s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.056s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.062s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.068s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.074s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.080s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="150" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.086s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-08-31: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.075s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.081s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.087s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.093s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.099s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.105s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="169" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.111s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.100s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.106s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.112s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.118s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.124s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.130s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="188" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.136s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.125s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.131s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.137s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.143s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.149s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.155s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="207" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.161s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.150s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.156s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.162s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.168s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.174s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.180s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="226" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.186s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.175s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.181s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-09-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.187s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.193s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.199s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.205s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="245" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.211s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.200s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.206s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.212s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.218s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.224s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.230s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="264" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.236s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.225s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.231s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.237s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.243s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.249s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.255s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="283" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.261s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.250s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.256s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.262s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.268s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.274s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.280s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="302" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.286s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.275s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.281s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.287s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.293s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.299s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-10-31: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.305s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="321" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.311s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.300s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.306s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.312s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.318s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.324s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.330s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="340" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.336s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.325s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.331s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.337s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.343s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.349s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.355s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="359" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.361s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.350s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.356s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.362s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.368s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.374s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.380s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="378" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.386s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.375s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.381s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.387s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.393s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.399s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.405s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="397" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.411s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-11-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.400s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.406s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.412s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.418s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.424s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.430s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="416" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.436s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.425s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.431s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.437s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.443s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.449s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.455s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="435" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.461s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.450s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.456s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.462s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.468s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.474s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.480s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="454" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.486s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.475s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.481s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.487s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.493s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.499s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.505s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="473" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.511s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.500s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.506s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.512s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2025-12-31: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.518s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.524s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.530s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="492" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.536s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.525s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.531s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.537s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.543s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.549s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.555s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="511" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.561s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.550s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.556s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.562s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.568s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.574s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.580s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="530" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.586s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.575s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.581s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.587s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.593s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.599s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.605s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="549" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.611s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.600s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.606s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.612s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.618s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.624s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.630s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="568" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-01-31: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.636s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.625s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.631s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.637s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.643s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.649s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.655s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="587" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.661s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.650s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.656s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.662s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-11: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.668s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.674s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.680s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="606" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-02-14: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.686s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.675s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.681s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.687s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.693s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.699s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.705s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="625" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.711s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.700s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.706s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.712s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.718s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.724s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.730s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="644" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-02-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.736s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.725s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-02: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.731s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.737s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.743s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.749s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="224" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-03-06: 30 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.755s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="663" y="244" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-03-07: 20 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.761s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="124" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-03-08: 60 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.750s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-09: 10 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.756s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-10: 8 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.762s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="184" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-03-11: 16 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.768s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="204" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-03-12: 32 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.774s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="224" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-03-13: 24 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.780s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="682" y="244" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-03-14: 13 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.786s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-15: 9 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.775s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.781s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-17: 3 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.787s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.793s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="204" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-19: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.799s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.805s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="701" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.811s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-22: 6 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.800s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-23: 10 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.806s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="164" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-03-24: 60 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.812s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-25: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.818s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.824s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.830s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="720" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-28: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.836s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.825s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-03-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.831s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-03-31: 6 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.837s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.843s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="204" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-04-02: 38 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.849s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="224" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-04-03: 24 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.855s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="739" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.861s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.850s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.856s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.862s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-08: 5 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.868s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="204" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-04-09: 77 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.874s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="224" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-10: 5 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.880s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="758" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-11: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.886s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.875s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-13: 3 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.881s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="164" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-04-14: 31 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.887s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-15: 2 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.893s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.899s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="224" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-04-17: 22 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.905s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="777" y="244" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-04-18: 35 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.911s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="124" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-04-19: 41 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.900s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="144" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-04-20: 14 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.906s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-21: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.912s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.918s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="204" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-04-23: 30 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.924s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.930s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="796" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-25: 11 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.936s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="124" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-04-26: 18 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.925s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-04-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.931s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-28: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.937s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-04-29: 7 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.943s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="204" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-04-30: 57 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.949s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="224" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-01: 7 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.955s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="815" y="244" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-05-02: 49 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.961s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="124" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-05-03: 42 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.950s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="144" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-05-04: 13 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.956s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-05: 5 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.962s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-06: 11 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.968s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-05-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.974s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="224" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-05-08: 30 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.980s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="834" y="244" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-05-09: 29 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.986s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="124" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-05-10: 16 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.975s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-11: 3 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.981s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-12: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.987s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-13: 6 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.993s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="204" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-14: 6 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="0.999s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="224" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-05-15: 19 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.005s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="853" y="244" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-05-16: 40 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.011s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-17: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.000s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-18: 5 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.006s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="164" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-05-19: 14 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.012s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-20: 5 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.018s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="204" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-05-21: 13 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.024s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="224" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-22: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.030s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="872" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-23: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.036s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-24: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.025s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-05-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.031s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-05-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.037s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-05-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.043s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-05-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.049s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-05-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.055s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="891" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-30: 2 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.061s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-05-31: 5 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.050s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="144" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-06-01: 32 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.056s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-06-02: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.062s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.068s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.074s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="224" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-06-05: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.080s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="910" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.086s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.075s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.081s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.087s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.093s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="204" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-06-11: 4 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.099s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-12: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.105s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="929" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-13: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.111s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.100s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.106s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-16: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.112s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-17: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.118s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.124s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.130s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="948" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.136s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-21: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.125s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.131s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-23: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.137s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-24: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.143s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-25: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.149s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-26: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.155s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="967" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-27: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.161s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-28: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.150s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.156s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-06-30: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.162s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="184" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-01: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.168s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="204" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-07-02: 43 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.174s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="224" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-03: 3 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.180s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="986" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.186s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.175s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.181s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-07: 8 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.187s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-08: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.193s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.199s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-10: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.205s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1005" y="244" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-07-11: 17 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.211s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-12: 7 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.200s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="144" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-07-13: 13 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.206s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-14: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.212s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-15: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.218s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="204" width="14" height="14" rx="3" fill="#8ac7ff" opacity="0.16">
+      <title>2026-07-16: 47 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.224s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="224" width="14" height="14" rx="3" fill="#1d70c9" opacity="0.16">
+      <title>2026-07-17: 20 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.230s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1024" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-18: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.236s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-19: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.225s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-20: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.231s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-21: 2 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.237s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-22: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.243s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="204" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-23: 10 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.249s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="224" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-24: 10 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.255s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1043" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-25: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.261s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="124" width="14" height="14" rx="3" fill="#3b93ea" opacity="0.16">
+      <title>2026-07-26: 26 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.250s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-27: 9 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.256s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="164" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-28: 6 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.262s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-29: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.268s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="204" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-07-30: 2 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.274s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-07-31: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.280s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1062" y="244" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-01: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.286s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="124" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-08-02: 6 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.275s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="144" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-03: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.281s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="164" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-04: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.287s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="184" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-05: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.293s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="204" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-06: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.299s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="224" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-07: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.305s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1081" y="244" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-08-08: 1 contribution</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.311s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1100" y="124" width="14" height="14" rx="3" fill="#111c2f" opacity="0.16">
+      <title>2026-08-09: 0 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.300s" repeatCount="1" fill="freeze"/>
+    </rect>
+    <rect x="1100" y="144" width="14" height="14" rx="3" fill="#164e83" opacity="0.16">
+      <title>2026-08-10: 3 contributions</title>
+      <animate attributeName="opacity" values="0.16;1;0.82" keyTimes="0;0.52;1" dur="2.8s" begin="1.306s" repeatCount="1" fill="freeze"/>
+    </rect></g>
+  <g transform="translate(925 53)" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11" fill="#71829a">
+    <text x="0" y="12">LESS</text>
+    <rect x="42" y="1" width="12" height="12" rx="3" fill="#111c2f"/>
+    <rect x="60" y="1" width="12" height="12" rx="3" fill="#164e83"/>
+    <rect x="78" y="1" width="12" height="12" rx="3" fill="#1d70c9"/>
+    <rect x="96" y="1" width="12" height="12" rx="3" fill="#3b93ea"/>
+    <rect x="114" y="1" width="12" height="12" rx="3" fill="#8ac7ff"/>
+    <text x="135" y="12">MORE</text>
+  </g>
+  <rect x="100" y="112" width="38" height="154" fill="url(#sweep)" opacity="0" filter="url(#soft-glow)">
+    <animate attributeName="x" values="92;1110" dur="2.8s" repeatCount="1" fill="freeze"/>
+    <animate attributeName="opacity" values="0;0.5;0.5;0" keyTimes="0;0.08;0.84;1" dur="2.8s" repeatCount="1" fill="freeze"/>
+  </rect>
+  <text x="1118" y="274" text-anchor="end" fill="#38506f" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10" letter-spacing="2">SOURCE / GITHUB</text>
+</svg>
