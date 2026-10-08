@@ -6,7 +6,7 @@ Computer science at UW–Madison: artificial intelligence, robotics, and cyberse
 
 - [PowderMeet](https://github.com/zlichtman/PowderMeet): where should two skiers separated across a mountain meet? Graph routing over the resort's real lifts and trails finds the fairest spot. Live across 159 Epic and Ikon resorts.
 - [Heartable](https://github.com/zlichtman/Heartable): one music library across Spotify and Apple Music, with diffable playlist backups and cross-service mixtapes.
-- [MacSpaces](https://github.com/zlichtman/MacSpaces): a native macOS Nook for music, clipboard history, coding tools, timers and files, right at the notch. Includes action search, shared file tools, multi-file staging and on-device dictation. [Download 2.87](https://github.com/zlichtman/MacSpaces/releases/download/v2.87/MacSpaces.dmg)
+- [MacSpaces](https://github.com/zlichtman/MacSpaces): a native macOS Nook for music, clipboard history, coding tools, timers and files, right at the notch. Includes action search, shared file tools, multi-file staging and on-device dictation. [Download 2.88](https://github.com/zlichtman/MacSpaces/releases/download/v2.88/MacSpaces.dmg)
 - **Tsukumo** (in development): a multi-agent harness where KemoSabe, a private bot on Apple's on-device model, stands between your personal data and every other AI agent.
 
 ## Elsewhere
