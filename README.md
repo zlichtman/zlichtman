@@ -6,6 +6,6 @@
 
 </div>
 
-- Built VERDICT at Hyundai America Technical Center, an evaluation harness for whether production voice assistants are ready to ship in vehicles.
-- AI safety teaching with the Wisconsin AI Safety Initiative.
-- Robotics with WiscoHumanoids & Wisconsin Robotics.
+- **Hyundai:** Built VERDICT, which tests whether in-car voice assistants are ready to ship.
+- **AI safety:** Teaching with the Wisconsin AI Safety Initiative.
+- **Robotics:** WiscoHumanoids and Wisconsin Robotics.
